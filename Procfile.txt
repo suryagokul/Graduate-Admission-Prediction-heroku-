@@ -1,4 +1,4 @@
-web: gunicorn firstFlask:app
+web: gunicorn app:app
 
 
 
